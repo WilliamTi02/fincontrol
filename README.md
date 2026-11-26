@@ -1,5 +1,7 @@
 # FinControl — controle financeiro Full Stack
 
+**Repositório:** https://github.com/WilliamTi02/fincontrol · **Demo:** em breve
+
 Projeto de portfólio: registre entradas e saídas e veja um resumo por categoria calculado no banco.
 
 **Stack:** React + TypeScript (Vite) · Node.js + Express + TypeScript · SQLite (`node:sqlite`) · JWT · Zod · SQL agregado (`SUM`, `GROUP BY`) · testes com `node:test`.
